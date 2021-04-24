@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/funwflags/static/css/main.3c3febbd.chunk.css",
+    "main.js": "/funwflags/static/js/main.b01a8203.chunk.js",
+    "main.js.map": "/funwflags/static/js/main.b01a8203.chunk.js.map",
+    "runtime-main.js": "/funwflags/static/js/runtime-main.0e80df2f.js",
+    "runtime-main.js.map": "/funwflags/static/js/runtime-main.0e80df2f.js.map",
+    "static/js/2.9af6c336.chunk.js": "/funwflags/static/js/2.9af6c336.chunk.js",
+    "static/js/2.9af6c336.chunk.js.map": "/funwflags/static/js/2.9af6c336.chunk.js.map",
+    "index.html": "/funwflags/index.html",
+    "precache-manifest.b9c29d0d6652a5e9aff000f9aa510621.js": "/funwflags/precache-manifest.b9c29d0d6652a5e9aff000f9aa510621.js",
+    "service-worker.js": "/funwflags/service-worker.js",
+    "static/css/main.3c3febbd.chunk.css.map": "/funwflags/static/css/main.3c3febbd.chunk.css.map",
+    "static/js/2.9af6c336.chunk.js.LICENSE.txt": "/funwflags/static/js/2.9af6c336.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e80df2f.js",
+    "static/js/2.9af6c336.chunk.js",
+    "static/css/main.3c3febbd.chunk.css",
+    "static/js/main.b01a8203.chunk.js"
+  ]
+}
